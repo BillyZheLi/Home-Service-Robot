@@ -3,7 +3,7 @@ A home service robot that will autonomously map an environment and navigate to p
 The packages used in this project includes ros official packages and my own packages.
 
 ros packages include
-gmapping: This packagecan be used to perform SLAM and build a map of the environment with a robot equipped with laser range finder sensors or RGB-D cameras.
+gmapping: This package can be used to perform SLAM and build a map of the environment with a robot equipped with laser range finder sensors or RGB-D cameras.
 turtlebot_teleop: This package can be used to manually control a robot using keyboard commands.
 turtlebot_rviz_launchers: This package can be used to load a preconfigured rviz workspace.
 turtlebot_gazebo: This package can be used to deploy a turtlebot in a gazebo environment by linking the world file to it.
